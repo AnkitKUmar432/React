@@ -1,0 +1,19 @@
+.error{
+    color: red;
+    position: fixed;
+    left: 50%;
+    /* top: 50%; */
+    background-color: rgb(172, 231, 172);
+}
+.warning{
+    color: yellow;
+    background-color: black;
+    position: fixed;
+    left: 55%;
+    /* top: 50%; */
+    
+}
+.App{
+    position: fixed;
+    left: 50%;
+}
